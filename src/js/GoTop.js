@@ -35,4 +35,4 @@ function GoTop(height) {
     });
 }
 
-// export default GoTop;
+export default GoTop;
